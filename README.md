@@ -78,3 +78,7 @@
 
 # İsimler Komutu:
 <img src="https://cdn.discordapp.com/attachments/1022084300503523328/1029713031627821077/unknown.png">
+
+# Yardım Komutu:
+<img src="https://cdn.discordapp.com/attachments/1022084942026522675/1029713271105802290/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/1022084942026522675/1029713406883799091/unknown.png">
