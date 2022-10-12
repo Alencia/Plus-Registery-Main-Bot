@@ -49,10 +49,15 @@
  # Hoşgeldin Mesajı:
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029705593390366730/unknown.png">
  
- # Erkek - Kız Kayıt Kısmı:
+ # İnvite Girdi-Çıktı:
+ 1.Sunucuya Girdi Mesajı:<br>
+ <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029706415394271243/unknown.png">
+ 
+ # Erkek - Kız Kayıt Komutu:
  1.Kayıt Olmadan Önce:<br>
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029705255383990342/unknown.png">
  
  2.Kayıt Olduktan Sonra:<br>
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029705593390366730/unknown.png">
  
+# İnvite Komutu:
