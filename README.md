@@ -82,3 +82,25 @@
 # Yardım Komutu:
 <img src="https://cdn.discordapp.com/attachments/1022084942026522675/1029713271105802290/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/1022084942026522675/1029713406883799091/unknown.png">
+
+# Teyit Stat Komutu:
+<img src="https://cdn.discordapp.com/attachments/1022084580217458708/1029713763466752020/unknown.png">
+
+# Vip Komutu:
+<img src="https://cdn.discordapp.com/attachments/1023528924896043038/1029714087233454120/unknown.png">
+
+# Registery Yetkilisi Komutu:
+<img src="https://cdn.discordapp.com/attachments/1023528928729645057/1029714470504759316/unknown.png">
+
+# Say Komutu:
+<img src="https://cdn.discordapp.com/attachments/1023528939152482314/1029714558010531910/unknown.png">
+
+# TagSay Komutu:
+<img src="https://cdn.discordapp.com/attachments/1023528940746313729/1029714748205436948/unknown.png">
+
+# İsim Sıfırlama Komutu:
+<img src="https://cdn.discordapp.com/attachments/1023528934400335902/1029714932608012348/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/1023528934400335902/1029715049943662613/unknown.png">
+
+# Ping Komutu:
+<img src="https://cdn.discordapp.com/attachments/1023528931191701655/1029715164418818108/unknown.png">
