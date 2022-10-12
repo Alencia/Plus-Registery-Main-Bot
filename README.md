@@ -50,9 +50,9 @@
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029704910775795733/unknown.png">
  
  # Erkek - Kız Kayıt Kısmı:
- 1.Kayıt Olmadan Önce:
+ 1.Kayıt Olmadan Önce:<br>
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029705255383990342/unknown.png">
  
- 2.Kayıt Olduktan Sonra:
+ 2.Kayıt Olduktan Sonra:<br>
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029705593390366730/unknown.png">
  
