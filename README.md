@@ -69,4 +69,9 @@
 # İnvite Komutu:
 <img src="https://cdn.discordapp.com/attachments/1023534238357786695/1029711275225255956/unknown.png">
 
+# Kayıtsız Komutu: 
+<img src="https://cdn.discordapp.com/attachments/1023532173455798282/1029712272190341130/unknown.png">
 
+# Günlük İnfo Komutu:
+<img src="https://cdn.discordapp.com/attachments/1023528917597954090/1029712583768416277/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/1022084230622236702/1029712805353508895/unknown.png">
