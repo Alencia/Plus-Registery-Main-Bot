@@ -104,3 +104,7 @@
 
 # Ping Komutu:
 <img src="https://cdn.discordapp.com/attachments/1023528931191701655/1029715164418818108/unknown.png">
+
+
+# Önemli:
+## Arkadaşlar Boş Yapanları Sikin Yapmayanlarıda Sikin ANASINI SİKİN (BURASINI CANIM SIKILDI DİYE KOYDUM AMCIK HERİF)
