@@ -75,3 +75,6 @@
 # Günlük İnfo Komutu:
 <img src="https://cdn.discordapp.com/attachments/1023528917597954090/1029712583768416277/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/1022084230622236702/1029712805353508895/unknown.png">
+
+# İsimler Komutu:
+<img src="https://cdn.discordapp.com/attachments/1022084300503523328/1029713031627821077/unknown.png">
