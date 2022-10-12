@@ -53,6 +53,9 @@
  1.Sunucuya Girdi Mesajı:<br>
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029706415394271243/unknown.png">
  
+ 2.Sunucudan Çıktı Mesajı:<br>
+ <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029710970886565959/unknown.png">
+ 
  # Erkek - Kız Kayıt Komutu:
  1.Kayıt Olmadan Önce:<br>
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029705255383990342/unknown.png">
