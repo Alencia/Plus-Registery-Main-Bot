@@ -64,3 +64,4 @@
  <img src="https://cdn.discordapp.com/attachments/1022084277967532092/1029705593390366730/unknown.png">
  
 # İnvite Komutu:
+<img src="https://cdn.discordapp.com/attachments/1023534238357786695/1029711275225255956/unknown.png">
